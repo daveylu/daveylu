@@ -1,3 +1,3 @@
 - Dave Lu
-- Student at Carnegie Mellon University
+- Studying Computational Biology at Carnegie Mellon University
 - Contact me at: davelu@andrew.cmu.edu
