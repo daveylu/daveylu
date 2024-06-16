@@ -1,3 +1,3 @@
 - Dave Lu
-- Studying Computational Biology at Carnegie Mellon University
-- Contact me at: davelu@andrew.cmu.edu
+- B.S. in Computational Biology from Carnegie Mellon University
+- Contact me at: daveylupie@gmail.com
